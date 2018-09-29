@@ -15,3 +15,5 @@
 ### add feature 4
 
 ### fix some bugs
+
+### add some dependencies and fix some typo
