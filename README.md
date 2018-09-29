@@ -27,3 +27,5 @@
 ### add feature 6
 
 ### fix some bugs
+
+### fix some typo
