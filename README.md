@@ -1,0 +1,1 @@
+# This is a ndk test app.
